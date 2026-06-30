@@ -67,4 +67,4 @@ A web-based company profile and custom product ordering platform developed using
 
 **Nasheeka Azahra**
 
-Information Systems Student | Universitas Terbuka
+Information Systems Student | Universitas Krisnadwipayana
