@@ -1,0 +1,73 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    background: #f7f3f2;
+}
+
+
+/* NAVBAR */
+.navbar{
+    background: #e9e2df;
+}
+
+.logo-text{
+    color: #b08b2d;
+}
+
+.nav-link{
+    color: black;
+    transition: 0.3s;
+}
+
+.nav-link:hover{
+    color: #b08b2d;
+}
+
+.login-btn{
+    background: #e5d85c;
+    transition: 0.3s;
+}
+
+.login-btn:hover{
+    background: #d6c947;
+}
+
+/* HERO */
+.hero-section{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.hero-overlay{
+    background: rgba(0,0,0,0.45);
+}
+
+.hero-title{
+    color: #b08b2d;
+}
+
+.hero-text{
+    color: #f3f3f3;
+}
+
+.send-btn{
+    background: #b08b2d;
+    transition: 0.3s;
+}
+
+.send-btn:hover{
+    background: #947222;
+}
+
+.work-btn{
+    border: 1px solid white;
+    transition: 0.3s;
+}
+
+.work-btn:hover{
+    background: white;
+    color: black;
+}
